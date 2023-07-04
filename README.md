@@ -1,3 +1,7 @@
+Simple Snake game was written by [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) and ChatGPT.
+Used Python & Pygame.
+Stream on YouTube with codding this game: https://youtu.be/Qm--HMeLK_s
+
 The core classes, functions, and methods that will be necessary are:
 
 1. `Snake`: This class will represent the snake in the game. It will have methods to move the snake, grow the snake, and check if the snake has collided with itself.
